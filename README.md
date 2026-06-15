@@ -69,10 +69,9 @@ Sou um **explorador de tecnologia** que adora:
 ## 🧠 Curiosidade sobre mim
 
 Fora da programação, eu gosto de:
-- 🎨 Desenhar / jogar futebol / jogar videogame / ler (escolha o seu)
+- 🎨 ASSISTIR/ JOGAR VÔLEI/DORMIR.
 - 🧩 Resolver quebra-cabeças e desafios
-- 🚀 Aprender ciências e inventar coisas
-
+- 🚀 Aprender MATEMATICA E ETC...
 ---
 
 ## 📬 Contato (com ajuda de um responsável)
@@ -80,7 +79,7 @@ Fora da programação, eu gosto de:
 > 🔒 **Segurança em primeiro lugar!**  
 > Se quiser trocar ideias sobre projetos, peça para um adulto responsável entrar em contato por aqui mesmo (via Issues do GitHub) ou por um e-mail que ele liberar.
 
-📧 E-mail para contato (somente com permissão): `[seu-email-autorizado]`
+📧 E-mail para contato (somente com permissão): `[oliveira.almeida.kauan@escola.pr.gov.br]`
 
 ---
 
