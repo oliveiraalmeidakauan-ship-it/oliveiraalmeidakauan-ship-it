@@ -14,8 +14,8 @@
 
 ## 🚀 Sobre mim
 
-Oi! Eu sou o **[@SEU_NOME]** 👋  
-Tenho `[SUA_IDADE]` anos e estou no **Ensino Fundamental 2**.  
+Oi! Eu sou o **[@KAUAN]** 👋  
+Tenho `[13]` anos e estou no **Ensino Fundamental 2**.  
 
 Sou um **explorador de tecnologia** que adora:
 - 💻 Criar pequenos projetos
