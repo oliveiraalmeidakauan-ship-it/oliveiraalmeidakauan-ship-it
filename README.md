@@ -1,6 +1,6 @@
 <!-- Header com gradiente e banner (opcional, mas fica premium) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=[SEU%20NOME]&fontSize=50&fontAlignY=35&desc=Explorador%20de%20código%20%7C%20Estudante%20do%20Fundamental%202&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=[KAUAN HENRIQUE]&fontSize=50&fontAlignY=35&desc=Explorador%20de%20código%20%7C%20Estudante%20do%20Fundamental%202&descAlignY=55"/>
 </p>
 
 <!-- Badges de visitante (opcional, divertido) -->
